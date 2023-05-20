@@ -27,3 +27,5 @@ TG整合推送精简版，推送配置和账号密码都在文件内
 
 # 备份地址
 https://gitlab.com/BlueSkyXN/189Cloud-Checkin
+
+1234
